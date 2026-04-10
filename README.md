@@ -1,6 +1,6 @@
 # 🎬 YouTube Downloader (Node.js)
 
-Node.js로 작성된 YouTube 동영상 다운로더입니다.  
+Node.js로 작성된 YouTube 동영상 다운로더입니다.
 내부적으로 **yt-dlp**를 래핑하여 고품질 다운로드를 지원합니다.
 
 ## 📦 사전 요구사항
@@ -21,7 +21,7 @@ node index.js https://www.youtube.com/watch?v=VIDEO_ID
 node index.js https://youtu.be/VIDEO_ID -q 720
 
 
-node index.js https://www.youtube.com/watch?v=8YRwNqRYfR4 -q 720 
+node index.js https://www.youtube.com/watch?v=8YRwNqRYfR4 -q 720
 node index.js https://youtu.be/stFZFoS_3IY -q 720
 node index.js https://youtu.be/hmi5ZmYO20w -q 720
 
