@@ -35,6 +35,12 @@ node index.js https://youtu.be/lfjhcd9lVlQ -q 720
 node index.js https://youtu.be/vwS95NOEuhU -q 720
 node index.js https://youtu.be/BntpAnTbxkk -q 720
 
+# 0603
+node index.js https://youtu.be/Xz8q95eHlgo -q 720
+node index.js https://youtu.be/VJcKIHgV_I8 -q 720
+node index.js https://youtu.be/OtU6LcqhlcI -q 720
+node index.js https://youtu.be/czE3yvF5k5c -q 720
+
 
 # 오디오만 (MP3)
 node index.js https://youtu.be/VIDEO_ID -a
