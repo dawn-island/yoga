@@ -42,6 +42,11 @@ node index.js https://youtu.be/OtU6LcqhlcI -q 720
 node index.js https://youtu.be/czE3yvF5k5c -q 720
 
 
+# 0622
+node index.js https://youtu.be/DBfJmbxk9yg -q 720
+node index.js https://youtu.be/gs3ZcV5U5sc -q 720
+node index.js https://youtu.be/qE2Q8nu2G-c -q 720
+
 # 오디오만 (MP3)
 node index.js https://youtu.be/VIDEO_ID -a
 
