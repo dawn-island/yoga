@@ -6,3 +6,4 @@ mp4/*
 node_modules
 index.js
 package.json
+.DS_Store
