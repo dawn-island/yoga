@@ -47,6 +47,16 @@ node index.js https://youtu.be/DBfJmbxk9yg -q 720
 node index.js https://youtu.be/gs3ZcV5U5sc -q 720
 node index.js https://youtu.be/qE2Q8nu2G-c -q 720
 
+
+node index.js https://youtu.be/AABSdOkEO_I?si=wnOD1NagcQTs5r5q -q 720
+node index.js https://youtu.be/kocxjfnr3WM?si=jL9M5BIfMvF4Nbrk -q 720
+node index.js https://youtu.be/EPBRxyFidy8?si=mtfMdtNJ-py7wLfk -q 720
+
+
+node index.js https://www.youtube.com/watch?v=VVFDmK91krw -q 720
+node index.js https://www.youtube.com/watch?v=dWLBpsHpj_Q -q 720
+
+
 # 오디오만 (MP3)
 node index.js https://youtu.be/VIDEO_ID -a
 
