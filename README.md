@@ -56,6 +56,14 @@ node index.js https://youtu.be/EPBRxyFidy8?si=mtfMdtNJ-py7wLfk -q 720
 node index.js https://www.youtube.com/watch?v=VVFDmK91krw -q 720
 node index.js https://www.youtube.com/watch?v=dWLBpsHpj_Q -q 720
 
+// 다운로드 실패
+node index.js https://youtu.be/c5pZ4ddEQH0?si=vk0-XC6hfmbYK0yz -q 720
+node index.js https://youtu.be/ASLEDKwIaP4?si=tCDU5U_9FFVjbxS3 -q 720
+
+// 0816
+node index.js https://www.youtube.com/watch?v=BkDi7pP5WRA -q 720
+node index.js https://www.youtube.com/watch?v=TP6eXPVMAHI -q 720
+
 
 # 오디오만 (MP3)
 node index.js https://youtu.be/VIDEO_ID -a

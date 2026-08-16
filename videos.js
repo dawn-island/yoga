@@ -3,21 +3,18 @@ const VIDEOS = [
     id: "1QxqbFlBk-nfz9ihGfj8SAAIrTvlDyUdT",
     title: "[18기]횡격막과골반저근협응-호흡기초해부학과산스크리트용어",
     date: "2026.04.05",
-    duration: "5:32",
   },
   {
     id: "1hNrja7-KVaMKX5hCjtwkY5fZxYdcViNq",
     title:
       "[18기]횡격막병치구역(ZOA)-전신 정렬과 코어 안정성을 결정하는 기하학적 핵심 요소",
     date: "2026.04.05",
-    duration: "12:08",
   },
   {
     id: "1l7D22OCztllmuRSlWaMdxAYcazZJA7Qk",
     title:
       "[18기]어깨허리햄스트링발목통증해결-횡격막360도활성화마사지-하부늑골⧸늑골거근의중요성",
     date: "2026.04.05",
-    duration: "3:45",
   },
   {
     id: "17EocUG5oIw0DokCzVYQ4-sf6LSm3sc9y",
@@ -129,4 +126,18 @@ const VIDEOS = [
       "무릎안쪽통증-봉공근⧸중간통증-대퇴직근⧸바깥쪽통증-태퇴근막장근⧸봉공근-거위발건염",
     date: "2026.07.18",
   },
+  {
+    id: "1nVGQ1Z0PFQs7ejzpRp866UAqx7n_aYYb",
+    title: "[내몸의리모델링,젠링]저자직강",
+    date: "2026.08.16",
+  },
+  {
+    id: "1jaGQ2DGRRmFlxxbO5_MzQZjre1u_hX3W",
+    title:
+      "치료해도그때뿐통증이계속된다면？-근막,요가,텐세그리티",
+    date: "2026.08.16",
+  },
 ];
+
+// ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
+https: VIDEOS.sort((a, b) => b.date.localeCompare(a.date));
