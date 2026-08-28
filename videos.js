@@ -147,6 +147,11 @@ const VIDEOS = [
     title: "[18기근막]표면후방선-전굴자세에서가장중요한좌골결절의위치와방향성",
     date: "2026.08.24",
   },
+  {
+    id: "1kMl9SKrc8i8ILcjPQx-Pd51RcxPw0HAr",
+    title: "[18기근막]표면전방선-ASIS와치골결절",
+    date: "2026.08.24",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
