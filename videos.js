@@ -152,6 +152,11 @@ const VIDEOS = [
     title: "[18기근막]표면전방선-ASIS와치골결절",
     date: "2026.08.24",
   },
+  {
+    id: "1WppPJ052f8RXqQ_K2yVIZyzV6o_rUhI7",
+    title: "[18기근막]치골결합 마사지와위치의 중요성",
+    date: "2026.09.17",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
