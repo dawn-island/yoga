@@ -162,6 +162,11 @@ const VIDEOS = [
     title: "[18기근막]상지선-이두근/삼두근의중요성-어깨뿐아니라허리햄스트링까지",
     date: "2026.09.17",
   },
+  {
+    id: "1LFCSiO1S18adtuD2V_W8FtLg4iWEUCK3",
+    title: "[18기근막]숨만잘못쉬어도굳어버리는외측선",
+    date: "2026.09.17",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
