@@ -167,6 +167,11 @@ const VIDEOS = [
     title: "[18기근막]숨만잘못쉬어도굳어버리는외측선",
     date: "2026.09.17",
   },
+  {
+    id: "1UEYiQW26Dfc004rA-3vay2r3O_WAkK0P",
+    title: "[18기근막]장요근과힙힌지in심부전방선",
+    date: "2026.10.13",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
