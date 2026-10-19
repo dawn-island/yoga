@@ -177,6 +177,11 @@ const VIDEOS = [
     title: "[18기근막]복횡근(반다)잡는8개뼈지점과호흡훈련in심부전방선",
     date: "2026.10.13",
   },
+  {
+    id: "1hgEgx-zb1M7ZfbLK8oWnx8YRGdqbZiBD",
+    title: "[18기근막]심부전방선의모든것",
+    date: "2026.10.13",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
