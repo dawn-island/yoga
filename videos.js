@@ -172,6 +172,11 @@ const VIDEOS = [
     title: "[18기근막]장요근과힙힌지in심부전방선",
     date: "2026.10.13",
   },
+  {
+    id: "1GUzaSqABRvu7OcwFldJ7WLlLUmI-DR26",
+    title: "[18기근막]복횡근(반다)잡는8개뼈지점과호흡훈련in심부전방선",
+    date: "2026.10.13",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
