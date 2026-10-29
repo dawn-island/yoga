@@ -182,6 +182,11 @@ const VIDEOS = [
     title: "[18기근막]심부전방선의모든것",
     date: "2026.10.13",
   },
+  {
+    id: "1lqvk28_Vj5haA770yCl5LCTyzUI63uWc",
+    title: "[18기길항]유상삼매를통한길항근육해부학적안목깊어지기",
+    date: "2026.10.25",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
