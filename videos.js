@@ -187,6 +187,11 @@ const VIDEOS = [
     title: "[18기길항]유상삼매를통한길항근육해부학적안목깊어지기",
     date: "2026.10.25",
   },
+  {
+    id: "1oRointXYedFG8_O5fQByvII12kR8SvRD",
+    title: "[18기근막]젠링으로심부전방선살리기+젠링요가시퀀스1,2,3",
+    date: "2026.10.25",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
