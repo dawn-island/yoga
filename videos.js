@@ -197,6 +197,11 @@ const VIDEOS = [
     title: "[18기길항]몸의구조적문제를극복하는길항근육해부학",
     date: "2026.10.25",
   },
+  {
+    id: "14R3-VscBz1fsRbrvG9unSlAh8HAtjL4F",
+    title: "[18기근막]젠링요가시퀀스4",
+    date: "2026.10.25",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
