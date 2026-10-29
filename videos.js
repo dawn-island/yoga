@@ -192,6 +192,11 @@ const VIDEOS = [
     title: "[18기근막]젠링으로심부전방선살리기+젠링요가시퀀스1,2,3",
     date: "2026.10.25",
   },
+  {
+    id: "1e8g0w0BvSLkxIJT1OZEZECKME1c3ru38",
+    title: "[18기길항]몸의구조적문제를극복하는길항근육해부학",
+    date: "2026.10.25",
+  },
 ];
 
 // ponytail: "YYYY.MM.DD" 는 사전순 = 날짜순이라 파싱 불필요
